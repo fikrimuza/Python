@@ -1,0 +1,1 @@
+nda dapat selalu memeriksa tipe variabel yang digunakan dengan fungsi type() dan memastikan tipe variabel yang tepat dengan metode isinstance().
