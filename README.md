@@ -1,3 +1,3 @@
 # Python
 ## Type Data
-> [Type Data] (typeData.md)
+> [Type Data](typeData.md)
