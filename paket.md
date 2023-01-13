@@ -1,0 +1,3 @@
+- math.ceil (mebulatkan ke atas)
+- math.floor (membulatkan ke bawah)
+- 
