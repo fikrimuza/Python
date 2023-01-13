@@ -31,18 +31,30 @@
       print(x)
 
      
-     Menambahkan list
+     Menambahkan list dengan append
      
       x = [1,2,3]
       x[2]=4
       x.append(5)
       print(x)
+      
+     Menambahkan list dengan insert
+      
+      insert(0, value)
+      
+     Mengambil isi list
+     
+      list.pop(index)
      
      Menghapus list menggunakan fungsi del
      
       binatang = ['kucing', 'rusa', 'badak', 'gajah']
       del binatang[2]
       print(binatang)
+      
+     Menghapus list menggunakan remove
+     
+      list.remove(value)
     
 - Tuple
 
