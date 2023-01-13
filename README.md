@@ -1,5 +1,8 @@
 # Python
 ## Fundamental Python
-> [Komentar](komentar.md)
+> [Dasar Python](dasarpython.md)
 > 
 > [Type Data](typeData.md)
+>
+> [Control Flow](controlflow.md)
+> 
